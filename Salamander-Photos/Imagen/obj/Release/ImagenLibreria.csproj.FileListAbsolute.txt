@@ -1,0 +1,6 @@
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Imagen\bin\Release\Imagen.dll
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Imagen\bin\Release\Imagen.pdb
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Imagen\bin\Release\System.Data.SQLite.dll
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Imagen\bin\Release\System.Data.SQLite.xml
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Imagen\obj\Release\Imagen.dll
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Imagen\obj\Release\Imagen.pdb

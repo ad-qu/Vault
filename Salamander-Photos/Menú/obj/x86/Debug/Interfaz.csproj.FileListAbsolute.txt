@@ -1,0 +1,51 @@
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Menú\bin\Debug\Menú.exe
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Menú\bin\Debug\Menú.pdb
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Menú\bin\Debug\Imagen.dll
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Menú\bin\Debug\System.Data.SQLite.dll
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Menú\bin\Debug\Imagen.pdb
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Menú\bin\Debug\System.Data.SQLite.xml
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Menú\obj\x86\Debug\Interfaz.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Menú\obj\x86\Debug\WindowsFormsApplication1.BaseFotos.resources
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Menú\obj\x86\Debug\WindowsFormsApplication1.CellInformation.resources
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Menú\obj\x86\Debug\WindowsFormsApplication1.creditos.resources
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Menú\obj\x86\Debug\WindowsFormsApplication1.info.resources
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Menú\obj\x86\Debug\WindowsFormsApplication1.intensidad.resources
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Menú\obj\x86\Debug\WindowsFormsApplication1.Interfaz.resources
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Menú\obj\x86\Debug\WindowsFormsApplication1.marcos.resources
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Menú\obj\x86\Debug\WindowsFormsApplication1.ModoPresentacion.resources
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Menú\obj\x86\Debug\WindowsFormsApplication1.MostrarDatos.resources
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Menú\obj\x86\Debug\WindowsFormsApplication1.NuevoDoc.resources
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Menú\obj\x86\Debug\WindowsFormsApplication1.opciones.resources
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Menú\obj\x86\Debug\WindowsFormsApplication1.Pintar.resources
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Menú\obj\x86\Debug\WindowsFormsApplication1.salir.resources
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Menú\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Menú\obj\x86\Debug\WindowsFormsApplication1.Recortar.resources
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Menú\obj\x86\Debug\Interfaz.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Menú\obj\x86\Debug\Menú.exe
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Menú\obj\x86\Debug\Menú.pdb
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Menú\obj\x86\Debug\Menú.exe
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Menú\obj\x86\Debug\Menú.pdb
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Menú\bin\Debug\Menú.exe
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Menú\bin\Debug\Menú.pdb
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Menú\bin\Debug\Imagen.dll
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Menú\bin\Debug\System.Data.SQLite.dll
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Menú\bin\Debug\Imagen.pdb
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Menú\bin\Debug\System.Data.SQLite.xml
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Menú\obj\x86\Debug\Interfaz.csprojResolveAssemblyReference.cache
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Menú\obj\x86\Debug\WindowsFormsApplication1.BaseFotos.resources
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Menú\obj\x86\Debug\WindowsFormsApplication1.CellInformation.resources
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Menú\obj\x86\Debug\WindowsFormsApplication1.creditos.resources
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Menú\obj\x86\Debug\WindowsFormsApplication1.info.resources
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Menú\obj\x86\Debug\WindowsFormsApplication1.intensidad.resources
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Menú\obj\x86\Debug\WindowsFormsApplication1.Interfaz.resources
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Menú\obj\x86\Debug\WindowsFormsApplication1.marcos.resources
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Menú\obj\x86\Debug\WindowsFormsApplication1.ModoPresentacion.resources
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Menú\obj\x86\Debug\WindowsFormsApplication1.MostrarDatos.resources
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Menú\obj\x86\Debug\WindowsFormsApplication1.opciones.resources
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Menú\obj\x86\Debug\WindowsFormsApplication1.salir.resources
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Menú\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Menú\obj\x86\Debug\WindowsFormsApplication1.Recortar.resources
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Menú\obj\x86\Debug\Interfaz.csproj.GenerateResource.Cache
+C:\Users\adqui\Downloads\Salamander Photos\Menú\obj\x86\Debug\Interfaz.csproj.AssemblyReference.cache
+C:\Users\adqui\Downloads\Salamander Photos\Menú\obj\x86\Debug\Menú.exe
+C:\Users\adqui\Downloads\Salamander Photos\Menú\obj\x86\Debug\Menú.pdb

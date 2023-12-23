@@ -1,0 +1,13 @@
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Imagen\bin\Debug\Imagen.dll
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Imagen\bin\Debug\Imagen.pdb
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Imagen\bin\Debug\System.Data.SQLite.dll
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Imagen\bin\Debug\System.Data.SQLite.xml
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Imagen\obj\Debug\Imagen.dll
+C:\Users\usuario\Desktop\Salamander 2.2.9\SalamanderProject\Imagen\obj\Debug\Imagen.pdb
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Imagen\bin\Debug\Imagen.dll
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Imagen\bin\Debug\Imagen.pdb
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Imagen\bin\Debug\System.Data.SQLite.dll
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Imagen\bin\Debug\System.Data.SQLite.xml
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Imagen\obj\Debug\ImagenLibreria.csprojResolveAssemblyReference.cache
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Imagen\obj\Debug\Imagen.dll
+C:\Users\adqui\Desktop\Salamander 2.3 (1)\Salamander 2.3\SalamanderProject\Imagen\obj\Debug\Imagen.pdb
